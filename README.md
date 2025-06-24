@@ -38,14 +38,41 @@
 └─────────────────────────────────────────────────────────────┘
 ```
 
+## 📚 Documentation & Guides
+
+### 🎯 **Getting Started**
+- **[🌟 Beginner Guide](docs/BEGINNER_GUIDE.md)** - Perfect for first-time users and developers new to AI-assisted development
+- **[🚀 Intermediate Guide](docs/INTERMEDIATE_GUIDE.md)** - Advanced features for experienced developers and team leads  
+- **[⚡ Advanced Guide](docs/ADVANCED_GUIDE.md)** - Enterprise-scale implementation for production systems
+
+### 🔧 **Integration & Setup**
+- **[🤔 FAQ](docs/FAQ.md)** - Common questions about capabilities, learning, and integration
+- **[🔧 IDE Integration](docs/IDE_INTEGRATION.md)** - Complete setup for VS Code, JetBrains, Windsurf, and more
+- **[🤖 Claude Code Integration](CLAUDE.md)** - Enhanced Claude Code integration with memory system
+
+### 📖 **What Each Guide Covers**
+
+| Guide | Skill Level | Project Example | Key Features |
+|-------|-------------|-----------------|--------------|
+| **[Beginner](docs/BEGINNER_GUIDE.md)** | New to AI development | Simple Todo App | Memory basics, PRD validation, first AI conversations |
+| **[Intermediate](docs/INTERMEDIATE_GUIDE.md)** | Experienced developer | E-commerce API Platform | Multi-component architecture, CI/CD integration, team collaboration |
+| **[Advanced](docs/ADVANCED_GUIDE.md)** | Enterprise/Production | Fintech Platform | Regulatory compliance, multi-team sync, 98% success thresholds |
+
+### 🎯 **Choose Your Starting Point**
+- **New to memory-enhanced development?** → Start with **[Beginner Guide](docs/BEGINNER_GUIDE.md)**
+- **Want to implement complex systems?** → Jump to **[Intermediate Guide](docs/INTERMEDIATE_GUIDE.md)**  
+- **Building enterprise applications?** → Go to **[Advanced Guide](docs/ADVANCED_GUIDE.md)**
+- **Integrating with your IDE?** → Check **[IDE Integration](docs/IDE_INTEGRATION.md)**
+- **Have questions about capabilities?** → Read the **[FAQ](docs/FAQ.md)**
+
 ## 🚀 Quick Start
 
 ### Installation
 
 ```bash
 # Clone and install
-git clone <repository>
-cd AID_Commander/v4
+git clone https://github.com/krissistrunk/AID-Commander-v4.git
+cd AID-Commander-v4
 pip install -e .
 
 # Install with all optional dependencies
